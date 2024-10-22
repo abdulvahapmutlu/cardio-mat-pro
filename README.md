@@ -33,4 +33,5 @@ python scripts/process_ecg.py
 ```
 This will process the ECG records and save the .mat files in the specified output directory.
 
+## License
 This project is licensed under the MIT License.
